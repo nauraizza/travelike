@@ -1,5 +1,5 @@
 ###################
-TravellGo
+Travelike nya Naura
 ###################
 
 This is a simple blog application built on CodeIgniter 3.x.
